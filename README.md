@@ -5,13 +5,13 @@
 
 ## Overview
 
-Pewlett-Packard is a large firm. Many employees are approaching retirement age, which will result in a significant number of job openings in the organization. The management at PH wants to be prepared for this development, known as the "Silver Tsunami" by designating some of the retirees as mentors to train the future generation of workers who would run Pewlett Hackard's operations and day-to-day activities.
+Pewlett-Packard is a large firm with many employees approaching retirement age, which will result in a significant number of job openings in the organization. The manager of Pewlett-Packard wants to be prepared for this development, known as the "Silver Tsunami" by designating some of the retirees as mentors to train the future generation of workers who would run Pewlett Hackard's operations and day-to-day activities.
 
 
 The purpose of this study is to construct a list of employees approaching retirement age using Pewlett-Packard employee data. Employees born between January 1, 1952, and December 31, 1955 are included on the list. The company's management must be aware of the overall number of retirees, as well as the department in which they work and their title.
 
 
- The database is built as picture shown below in the ERD, and then used as a base to demonstrate various SQL query:
+The database is built as picture shown below in the ERD, and then used as a base to demonstrate various SQL query:
 
 ![PH_Schema](Images/PH_Schema.png)
 
