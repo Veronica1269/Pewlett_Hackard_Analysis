@@ -55,7 +55,7 @@ The final filtering step is to present the data of the 90398 employees grouped b
 
 This table is created using the following codes:
 
-![codes_3](Images/codes_3.png)
+![code_3](Images/code_3.png)
 
 
 From the table, we know that about 30% of the employees of the company are about to retire. This is a challenge for Pewlett Hackard because the majority of the retirees are engineers with many years of experience. Even if the company manages to hire substitute engineers in a short amount of time, the new hires will require a lot of training before they can contribute effectively to the operations of Pewlett Hackard.
